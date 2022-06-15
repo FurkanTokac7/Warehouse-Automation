@@ -31,8 +31,8 @@ Sol alanda ürün adının ve bilgilerinin bulunduğu satırlara çift tıkland�
 
 ## Projenin Görselleri
 
-![alt text]([http://url/to/img.png](https://im.ge/i/rJD7Z9))
+![alt text](https://i.im.ge/2022/06/15/rJD7Z9.png))
 
-![alt text]([http://url/to/img.png](https://im.ge/i/rJD7Z9https://im.ge/i/rJDIXX))
+![alt text](http://url/to/img.png)
 
 
