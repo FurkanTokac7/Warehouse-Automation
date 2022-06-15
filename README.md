@@ -30,9 +30,8 @@ Bir raf silinirse, o rafın içindeki ürünler yerinde değildir. pozisyona get
 Sol alanda ürün adının ve bilgilerinin bulunduğu satırlara çift tıklandığında tarayıcıda ürünün bağlı olduğu link açılır.
 
 ## Projenin Görselleri
-
-![alt text]((https://i.im.ge/2022/06/15/rJD7Z9.png))
-![alt text]([http://url/to/img.png](https://i.im.ge/2022/06/15/rJDIXX.png))
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 
