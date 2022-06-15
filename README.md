@@ -28,10 +28,3 @@ Raflar dolu ise o rafa başka ürün konulamaz.
 Bir raf silinirse, o rafın içindeki ürünler yerinde değildir. pozisyona getirilmektedir.
 
 Sol alanda ürün adının ve bilgilerinin bulunduğu satırlara çift tıklandığında tarayıcıda ürünün bağlı olduğu link açılır.
-
-## Projenin Görselleri
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-
-
