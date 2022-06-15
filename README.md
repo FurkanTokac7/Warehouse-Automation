@@ -33,6 +33,6 @@ Sol alanda ürün adının ve bilgilerinin bulunduğu satırlara çift tıkland�
 
 ![alt text](https://i.im.ge/2022/06/15/rJD7Z9.png))
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://i.im.ge/2022/06/15/rJD7Z9.png))
 
 
